@@ -9,8 +9,6 @@ class Translation(object):
 
 You Can't Add Me to A group. Join @Ft_Chats To See My Pevers!!
 
-For More Details Click Help Button Below..
-@FT_Chats
 </i>"""    
     
     HELP_TEXT = """
@@ -53,5 +51,4 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/henockjoy65/AutoFilterbotv1/">Click Me</a></i>
 """
