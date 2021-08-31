@@ -45,7 +45,7 @@ You Can't Add Me to A group. Join @Ft_Chats To See My Pevers!!
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/FT_Chats">Filmotainment</a></i></b>
+<b>➥ Created For</b> : <b><i><a href="https://t.me/FT_Chats">Filmotainment</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
